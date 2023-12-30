@@ -1,4 +1,4 @@
-### Hi, this is Pau Gutiérrez 😊
+# Hi, this is Pau Gutiérrez 😊
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
